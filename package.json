@@ -1,0 +1,19 @@
+{
+  "name": "@DCI-Softwere-solutions/stylelint-config",
+  "version": "1.0.0",
+  "description": "A shareable stylelint config for DCISS saas projects.",
+  "author": "Atif Riaz",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "stylelint-scss": ">=4.0.0",
+    "stylelint": ">=14.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/esportsconstruct-public/frontend-tools/stylelint-config"
+  },
+  "license": "UNLICENSED"
+}
